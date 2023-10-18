@@ -76,7 +76,7 @@ continues after
 
 # Source Code
 
-Use ``` to delimit blocks of source code:
+Use ``` to delimit blocks of sources code:
 
 ```
 code
